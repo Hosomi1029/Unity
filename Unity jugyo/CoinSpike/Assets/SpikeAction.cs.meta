@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: adffe935f23e1d6489e537c92f64e4d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - alarmSE: {fileID: 8300000, guid: 320d1506487f1d04eb13f2e1ce601938, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
